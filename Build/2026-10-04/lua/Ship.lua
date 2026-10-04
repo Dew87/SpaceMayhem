@@ -1,0 +1,10 @@
+BULLET_OFFSET = 16
+FONT = "Font\\Times New Roman.ttf"
+FONT_SIZE = 20
+RADIUS = 10
+RELOAD_TIME = 8
+REGEN_TIME = 120
+SPEED = 3
+TEXTURE = "Graphic\\Ship.png"
+X_FRAME_COUNT = 1
+Y_FRAME_COUNT = 1

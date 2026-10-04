@@ -1,0 +1,5 @@
+ALIVE_TIME = 60
+TICS_PER_FRAME = 6
+TEXTURE = "Graphic\\Explosion.png"
+X_FRAME_COUNT = 8
+Y_FRAME_COUNT = 1

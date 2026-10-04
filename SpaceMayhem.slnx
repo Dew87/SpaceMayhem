@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SpaceMayhem/SpaceMayhem.vcxproj" Id="32bf74f7-2579-47f9-80a8-0324830ee7b1" />
+</Solution>

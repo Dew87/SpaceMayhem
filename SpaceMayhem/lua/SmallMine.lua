@@ -1,0 +1,6 @@
+RADIUS = 16
+SCORE = 1
+SPEED = 4
+TEXTURE = "Graphic\\SmallMine.png"
+X_FRAME_COUNT = 1
+Y_FRAME_COUNT = 1

@@ -1,0 +1,5 @@
+RADIUS = 4
+SPEED = 5
+TEXTURE = "Graphic\\Bullet.png"
+X_FRAME_COUNT = 1
+Y_FRAME_COUNT = 1
